@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Vrushali
-- 👀 I’m interested in Web Development , I also have keen interest in field Generative AI.
+- 👀 I’m interested in Web Development.
 - 📫 How to reach me :
   <br> Linkedin : vrushalipunde4002
+  <br>(Just ping me! I will delighted to have you.)
 - 😄 Pronouns: She/her
 - I'm currently a 2<sup>nd</sup> year' student of BCA Science at MIT ACS College. 
 
