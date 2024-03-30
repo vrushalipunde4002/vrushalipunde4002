@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vrushali Punde</h1> <br>
 <h3 align="center">A passionate frontend developer from India</h3><br>
 👀 I’m interested in Web Development <br>
-
-📫 How to reach me :<br>
-  <br> Linkedin : vrushalipunde4002<br>
-  <br>(Just ping me! I will delighted to have you.)<br>
-
 😄 Pronouns: She/her<br>
-- I'm currently a 2<sup>nd</sup> year' student of BCA Science at MIT ACS College. <br>
+🎓 I'm currently a 2<sup>nd</sup> year' student of BCA Science at MIT ACS College. <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vrushalipunde4002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrushalipunde4002" height="30" width="40" /></a>
 <a href="https://medium.com/vrushalipunde4002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="vrushalipunde4002" height="30" width="40" /></a>
