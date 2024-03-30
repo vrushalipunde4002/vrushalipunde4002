@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Vrushali Punde</h1>
+<h1 align="center">Hi 👋, I'm Vrushali Punde</h1> <br>
 <h3 align="center">A passionate frontend developer from India</h3><br>
-- 👀 I’m interested in Web Development.
-- 📫 How to reach me :
-  <br> Linkedin : vrushalipunde4002
-  <br>(Just ping me! I will delighted to have you.)
-- 😄 Pronouns: She/her
+👀 I’m interested in Web Development <br>
+
+📫 How to reach me :<br>
+  <br> Linkedin : vrushalipunde4002<br>
+  <br>(Just ping me! I will delighted to have you.)<br>
+
+😄 Pronouns: She/her<br>
 - I'm currently a 2<sup>nd</sup> year' student of BCA Science at MIT ACS College. <br>
 
 <h3 align="left">Connect with me:</h3>
