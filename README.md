@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3><br>
 👀 I’m interested in Web Development <br>
 😄 Pronouns: She/her<br>
-🎓 I'm currently a 2<sup>nd</sup> year' student of BCA Science at MIT ACS College. <br>
+🎓 I'm currently a final year' student of BCA Science at MIT ACS College. <br>
 🕸️ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)<br>
 
 <h3 align="left">📫 Connect with me:</h3>
