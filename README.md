@@ -12,7 +12,6 @@
         <li>🦾 Chapter Organizer at <a href="https://github.com/gdgoc-mitacsc">Google Developer Groups On Campus MIT ACSC,Pune</a></li>
         <li>🌱 Learning <strong>ML and GenAI</strong></li>
         <li>👯 Open to work on <strong>Web Developement Projects</strong></li>
-        <li>🔧 Adaptable to new tech like GenAI, LLM's, Agentic AI</li>
         <li>🤝 Open to exciting opportunities and collaborations</li>
     </ul>   
   </div>
